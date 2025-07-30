@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @023arpita
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c programming 
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me *******890
-- 😄 Pronouns: ...hii
-- ⚡ Fun fact: ...hyuuuu
+### 👋 Hi there, I'm @023arpita
 
-<!---
-023arpita/023arpita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I'm a passionate beginner exploring the world of programming and development!
+
+---
+
+### 🧠 About Me
+
+- 👀 I’m interested in **coding** and building fun projects
+- 💻 Currently learning **C programming**
+- 🤝 Looking to **collaborate on GitHub**
+- 📞 How to reach me: *********890**
+- 😄 Pronouns: **she/her**
+
+---
+
+### 🚀 Tools & Tech I'm Exploring
+
+- Languages: C, HTML, CSS, JavaScript (soon!)
+- Platforms: GitHub, VS Code
+- Topics: Problem solving, Web dev basics, Git version control
+
+---
+
+### 📌 GitHub Goals
+
+- 📈 Contribute regularly to open-source
+- 🛠️ Build mini-projects and apps
+- 🌟 Learn by doing and sharing
+
+---
+
+Thanks for visiting! 😊
